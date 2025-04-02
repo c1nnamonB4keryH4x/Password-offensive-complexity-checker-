@@ -92,7 +92,7 @@ The tool can generate strong passwords that meet complexity requirements. You ca
 
 - **README.md**: This documentation file.
 - **Uniqueness_scoring_Chunk_sharding_dynamic_multi_threading.py**: Contains the main logic for evaluating password uniqueness and complexity using sharding and multi-threading.
-- **final_code**:final code implementations.
+- **final_menu.py**:final code implementations.
 - **lexoPatterns.py**: Separate file that gives the raw lexographical pattern implementation generators, can be used to help generate unique wordlists
 
 ### Fuzzing Files
