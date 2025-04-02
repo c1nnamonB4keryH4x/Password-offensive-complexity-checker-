@@ -229,9 +229,9 @@ The Password Complexity Checker evaluates passwords based on several metrics tha
 
 Entropy is a measure of randomness and unpredictability in a password. It quantifies the amount of uncertainty associated with a password and is calculated using the formula:
 
-\[ \text{Entropy} = -\sum (p_i \cdot \log_2(p_i)) \]
+[ \text{Entropy} = -\sum (p_i \cdot \log_2(p_i)) ]
 
-Where \( p_i \) is the probability of each unique character in the password. Higher entropy values indicate stronger passwords.
+Where ( p_i ) is the probability of each unique character in the password. Higher entropy values indicate stronger passwords.
 
 #### Implementation
 
