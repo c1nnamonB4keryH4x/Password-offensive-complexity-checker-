@@ -346,7 +346,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 This README provides a comprehensive overview of the Password Complexity Checker, including its features, installation instructions, usage guidelines, code structure, implementation details, troubleshooting tips, FAQs, and contribution guidelines. Feel free to modify any sections as needed!
 
