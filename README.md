@@ -232,6 +232,7 @@ $$
 \text{Entropy} = -\sum_{i} p_i \cdot \log_2(p_i)
 $$
 
+
 In this formula:
 
     p_i represents the probability of each unique character in the password.
