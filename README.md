@@ -49,7 +49,7 @@ Make sure you have Python 3.x installed. You can install the required packages u
 ```bash
 pip install -r requirements.txt
 ```
-
+Under the depencies folder there is a bat file for Windows and sh file for linux to help install dependencies. 
 ## Usage
 
 ### Input Fields
