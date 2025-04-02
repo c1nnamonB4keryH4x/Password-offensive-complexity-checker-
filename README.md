@@ -328,6 +328,7 @@ def calculate_overall_complexity(self, password: str, password_hits: int, com_hi
 - **File Not Found**: Ensure that the paths entered for variant, common passwords, and wordlist files are correct.
 - **Encoding Errors**: The tool attempts to load files using multiple encodings. If you encounter issues, check the file encoding.
 - **Performance Issues**: If the tool is slow, consider optimizing the wordlist or reducing the number of passwords being checked.
+- **Imports not working**: Make sure all depencies have been installed and none of them have been moved resulting in errors.
 
 ## FAQs
 
