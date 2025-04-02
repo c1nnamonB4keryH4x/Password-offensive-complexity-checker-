@@ -1,8 +1,19 @@
 # requirements.txt
 
+# Ensure Python 3.x is installed
+# For Windows, download the installer from:
+# https://www.python.org/downloads/windows/
+# For Ubuntu/Debian, you can install Python using:
+# sudo apt-get install python3
+
+# Ensure pip is installed
+# For Windows, pip is usually included with Python installations.
+# For Ubuntu/Debian, you can install pip using:
+# sudo apt-get install python3-pip
+
 # Tkinter is usually included with Python installations, but if you need to install it separately, you can use:
 # For Ubuntu/Debian:
-#sudo apt-get install python3-tk
+# sudo apt-get install python3-tk
 
 # If you are using a specific environment where tkinter is not available, you might need to install it.
 # Uncomment the line below if needed.
@@ -10,4 +21,4 @@
 
 # No additional third-party libraries are required for this project as it uses standard libraries.
 
-#Use the .sh files for linux distros and .bat for windows
+# Use the install_dependencies.sh file for Linux distros and install_dependencies.bat for Windows to automate the installation of dependencies.
