@@ -1,4 +1,4 @@
-# Password-complexity-checker-modern-statistical-analysis-cryptography-regex-and-Chunk-Sharding-
+# Password-complexity-checker
 Upon launching the tool, you will be greeted with a user-friendly interface that allows you to input passwords and configure settings for the evaluation process.
 1. Using the Tool
 Input Fields
